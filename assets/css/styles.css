@@ -96,8 +96,10 @@ a, a:active, a:hover {
     }
 
 
-a:hover{
+a:hover, a:focus-visible {
     background-color: hsl(75, 94%, 57%);
     color: black;
+    border: 1px solid black;
 }
+
 
