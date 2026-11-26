@@ -1,4 +1,4 @@
-*{ margin:auto;
+*{ margin:0;
    padding:0;
    box-sizing: border-box;}
 
@@ -59,7 +59,7 @@ h2{ color: hsl(75, 94%, 57%);
     font-size: 14px;
     line-height: 150%;
     font-weight: 700;
-    margin-top:0;
+    margin-top:-10px;
     padding-top: 0;;
 }
 
