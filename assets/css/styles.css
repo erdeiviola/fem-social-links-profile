@@ -32,7 +32,8 @@ main{
 
 @media screen and (max-width: 767px){
     main {
-        width: 320px;
+        width:100%;
+        max-width: 320px;
         padding-left: 16px;
         padding-right:16px;
     }
