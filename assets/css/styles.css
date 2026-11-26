@@ -1,6 +1,6 @@
 *{ margin:auto;
-   padding:auto;
-   box-sizing: border-boxa;}
+   padding:0;
+   box-sizing: border-box;}
 
 body{
     background-color: #141414;
@@ -25,7 +25,6 @@ main{
     align-items: center;
     gap:16px;
     max-width:384px;
-    height:611px;
     padding:40px;
     margin:auto;
   
@@ -34,6 +33,8 @@ main{
 @media screen and (max-width: 767px){
     main {
         width: 320px;
+        padding-left: 24px;
+        padding-right:16px;
     }
 }
 
